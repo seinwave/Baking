@@ -1,6 +1,7 @@
 # 1.10.19 - Sister-in-Law Visit
 
 Made 1/2 of the recipe in Peter Reinhart's `The Bread Baker's Apprentice`, yielding six bagels. 
+![](image/baked.jpg)
 
 
 ### Sponge
@@ -59,9 +60,13 @@ Came out nicely colored.
 
 Nice color on the outside.
 
+![](image/baked.jpg)
+
 So-so texture. Not enough of a `crust`. No `blistering` to speak of.
 
 But great flavor. 
+
+![](image/slice.jpg)
 
 ### Next time: 
 
